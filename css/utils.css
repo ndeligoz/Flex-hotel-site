@@ -125,9 +125,7 @@ width: 100%;
  .flex-columns .column {
     flex: 1;
  }
- .flex-columns .column .column-1 {
-
- }
+ 
  .flex-columns .column .column-2 {
     height: 100%;
  }
